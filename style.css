@@ -1,0 +1,12 @@
+#jumbo {
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color:white;
+}
+.this {
+    position:relative;
+    font-size: 50px;
+    margin-left: 20%;
+    top:25%;
+}
